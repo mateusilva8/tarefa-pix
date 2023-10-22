@@ -1,0 +1,9 @@
+.container {
+    background-color: rgb(136, 136, 136);
+}
+
+.formulario {
+    width: 1000px;
+    display: flex;
+    align-items: center;
+}

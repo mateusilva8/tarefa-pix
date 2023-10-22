@@ -1,0 +1,32 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    font-size: 1rem;
+    
+}
+
+.formulario-body {
+    display: flex;
+    flex-direction: row;
+    height: 30px;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.formulario-select {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+
+}
+
+.idInput {
+    width: 100%;
+}

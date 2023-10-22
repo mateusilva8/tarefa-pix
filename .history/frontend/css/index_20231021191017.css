@@ -1,0 +1,8 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+}
